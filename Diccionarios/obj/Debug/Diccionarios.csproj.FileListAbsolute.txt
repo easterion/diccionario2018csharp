@@ -1,0 +1,6 @@
+C:\Users\easte\Documents\Curso c#\Diccionarios\Diccionarios\bin\Debug\Diccionarios.exe.config
+C:\Users\easte\Documents\Curso c#\Diccionarios\Diccionarios\bin\Debug\Diccionarios.exe
+C:\Users\easte\Documents\Curso c#\Diccionarios\Diccionarios\bin\Debug\Diccionarios.pdb
+C:\Users\easte\Documents\Curso c#\Diccionarios\Diccionarios\obj\Debug\Diccionarios.csprojResolveAssemblyReference.cache
+C:\Users\easte\Documents\Curso c#\Diccionarios\Diccionarios\obj\Debug\Diccionarios.exe
+C:\Users\easte\Documents\Curso c#\Diccionarios\Diccionarios\obj\Debug\Diccionarios.pdb
